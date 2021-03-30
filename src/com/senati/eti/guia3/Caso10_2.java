@@ -27,7 +27,8 @@ public class Caso10_2 {
 			System.out.println("     Resultados");
 			System.out.println("--------------------");
 
-			float sue_bru = hor_tra * tar_hor, bon = 0, des = 0;
+			float sue_bru = hor_tra * tar_hor;
+			float bon = 0, des = 0;
 
 			if (regi == 1) {
 				su_men = sue_bru;
